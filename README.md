@@ -9,7 +9,8 @@ From **Python** to **Go**, from **React** to **Godot**, from **Blender** to **Ar
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaaltunoglu" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaaltunoglu&show_icons=true&theme=dracula
+" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaltunoglu&layout=compact&theme=dracula&hide_border=false&card_width=320" height="150" alt="languages graph"/>
 </div>
 

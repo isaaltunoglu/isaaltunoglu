@@ -16,7 +16,6 @@ I build with:
 ---
 
 ## 🛠️ Tech Stack  
-## 🛠️ Tech Stack  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,go,java,c,arduino,linux,git,github,firebase,react,nextjs,js,qt,opencv,tensorflow,pytorch,blender,godot" />
 </div>
